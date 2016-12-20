@@ -1,0 +1,6 @@
+To get the graphs of each of the question you need to exit out of the current figure and then the next one will come up.
+
+Building AND, OR, NAND, NOR, and XOR all seemed to have the downward trend that we wanted.
+With the XOR learning I'm not sure if there just wasn't enough trials to see the line bottom out and trend up again, or if the
+formula was incorrect. But I understand that the single-layer NN would be unable to properly distinguish the outputs to the error
+level that we would want.

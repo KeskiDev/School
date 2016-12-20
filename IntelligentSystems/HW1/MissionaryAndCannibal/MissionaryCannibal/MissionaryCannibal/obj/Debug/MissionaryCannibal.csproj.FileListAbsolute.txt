@@ -1,0 +1,6 @@
+C:\Users\Lyle\Documents\School\Intelligent Systems\MissionaryAndCannibal\MissionaryCannibal\MissionaryCannibal\bin\Debug\MissionaryCannibal.exe.config
+C:\Users\Lyle\Documents\School\Intelligent Systems\MissionaryAndCannibal\MissionaryCannibal\MissionaryCannibal\obj\Debug\MissionaryCannibal.csprojResolveAssemblyReference.cache
+C:\Users\Lyle\Documents\School\Intelligent Systems\MissionaryAndCannibal\MissionaryCannibal\MissionaryCannibal\bin\Debug\MissionaryCannibal.exe
+C:\Users\Lyle\Documents\School\Intelligent Systems\MissionaryAndCannibal\MissionaryCannibal\MissionaryCannibal\bin\Debug\MissionaryCannibal.pdb
+C:\Users\Lyle\Documents\School\Intelligent Systems\MissionaryAndCannibal\MissionaryCannibal\MissionaryCannibal\obj\Debug\MissionaryCannibal.exe
+C:\Users\Lyle\Documents\School\Intelligent Systems\MissionaryAndCannibal\MissionaryCannibal\MissionaryCannibal\obj\Debug\MissionaryCannibal.pdb
