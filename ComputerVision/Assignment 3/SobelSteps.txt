@@ -1,0 +1,9 @@
+Sobel steps - from class
+1. image filtered by FImx & FImy
+    IM filtered by G(X)
+    IM filtered by G(y)
+    g(x) = [-1,-2,-1;0,0,0;1,2,1]
+    g(y) = [-1,0,1;-2,0,2;-1,0,1]
+2. FIm = sqrt((FImx)^2 + (FImy)^2)
+    |FImx| + |FImy| = FIm
+3. if (FIm) > Threshold keep
